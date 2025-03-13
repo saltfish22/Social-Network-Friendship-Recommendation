@@ -27,7 +27,3 @@ helping enhance social networking engagement.
 - Improved connection accuracy by analyzing **social graph structures**.
 - Optimized **big data processing** for scalable recommendations.
 
-## 🚀 How to Run the Project
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/Social-Network-Analysis-Spark.git
