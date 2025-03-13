@@ -18,9 +18,9 @@ helping enhance social networking engagement.
 4. **Output & Insights:** Generated structured recommendations for each user.
 
 ## 📂 Repository Structure
-- `social_network_analysis.ipynb` – Jupyter Notebook implementation
-- `data/` – (Include a small sample dataset if possible)
-- `README.md` – Project description
+- `social_network_analysis.ipynb` 
+- `data/` 
+- `README.md` 
 
 ## 📈 Results
 - Implemented an efficient **Spark-based friend recommendation system**.
