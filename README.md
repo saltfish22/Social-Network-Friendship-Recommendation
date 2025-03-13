@@ -23,7 +23,9 @@ helping enhance social networking engagement.
 - `README.md` 
 
 ## 📈 Results
-- Implemented an efficient **Spark-based friend recommendation system**.
-- Improved connection accuracy by analyzing **social graph structures**.
-- Optimized **big data processing** for scalable recommendations.
+- Developed a Spark-based recommendation system that analyzes mutual friend connections to suggest new friendships.
+- Processed a large-scale social network dataset using PySpark RDD transformations.
+- Implemented efficient mutual friend pair generation using flatMap(), reducing data redundancy and improving computation speed.
+- Computed top 10 friend recommendations for each user by aggregating and ranking mutual friend counts using reduceByKey().
+
 
